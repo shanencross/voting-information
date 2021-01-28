@@ -18,9 +18,14 @@ Page that offers user information about the voting process. Practice site for Ep
 
 ## Setup/Installation Requirements
 
+To install locally:
+
 * Install git
 * Clone this repo to a local directory, using git
 * Open _index.html_ in a web browser
+
+Or, visit the site online:
+* https://shanencross.github.io/voting-information/
 
 ## Known Bugs
 
